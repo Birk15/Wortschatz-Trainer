@@ -1,0 +1,149 @@
+.newWords {
+  position: fixed;
+  top: 6rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  z-index: 9999;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  padding: 2rem;
+  overflow-y: auto;
+
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(12px);
+
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.header {
+  text-align: center;
+}
+
+.header h2 {
+  font-size: 2rem;
+  font-weight: 700;
+
+  color: #1e293b;
+}
+
+.definition {
+  max-width: 700px;
+
+  margin: 0 auto;
+  padding: 1.25rem;
+
+  text-align: center;
+  line-height: 1.6;
+
+  font-size: 1.1rem;
+  color: #334155;
+
+  background: #f8fafc;
+  border: 2px solid #e2e8f0;
+  border-radius: 16px;
+}
+
+.newWords input {
+  width: 100%;
+  max-width: 500px;
+
+  margin: 0 auto;
+  padding: 0.9rem 1rem;
+
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+
+  font-size: 1rem;
+  text-align: center;
+
+  transition: all 0.2s ease;
+}
+
+.newWords input:focus {
+  outline: none;
+
+  border-color: #2563eb;
+
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.15);
+}
+
+.newWords button {
+  width: fit-content;
+
+  margin: 1rem auto 0;
+  padding: 0.9rem 2rem;
+
+  border: none;
+  border-radius: 12px;
+
+  cursor: pointer;
+
+  font-size: 1rem;
+  font-weight: 600;
+
+  color: white;
+
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+
+  transition: all 0.25s ease;
+}
+
+.newWords button:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.3);
+}
+
+.result {
+  max-width: 500px;
+
+  margin: 0 auto;
+  padding: 1rem;
+
+  text-align: center;
+
+  border-radius: 12px;
+
+  background: #f8fafc;
+  border: 2px solid #e2e8f0;
+}
+
+.result p {
+  margin: 0.5rem 0;
+
+  color: #1e293b;
+}
+
+.green {
+  background-color: rgba(16, 185, 129, 0.15);
+  border-color: #10b981 !important;
+}
+
+.red {
+  background-color: rgba(239, 68, 68, 0.15);
+  border-color: #ef4444 !important;
+}
+
+@media (max-width: 768px) {
+  .newWords {
+    padding: 1.25rem;
+  }
+
+  .header h2 {
+    font-size: 1.6rem;
+  }
+
+  .definition {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  .newWords input {
+    font-size: 0.95rem;
+  }
+}
