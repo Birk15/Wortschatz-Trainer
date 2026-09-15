@@ -42,5 +42,409 @@
   {
     "word": "nuanciert",
     "definition": "Feine Unterschiede berücksichtigend und differenziert dargestellt"
+  },
+  {
+    "word": "prägnant",
+    "definition": "Etwas kurz und gleichzeitig treffend ausdrücken"
+  },
+  {
+    "word": "plausibel",
+    "definition": "Nachvollziehbar und glaubwürdig wirken"
+  },
+  {
+    "word": "subtil",
+    "definition": "Fein und nicht sofort offensichtlich sein"
+  },
+  {
+    "word": "differenziert",
+    "definition": "Etwas genau und aus verschiedenen Blickwinkeln betrachten"
+  },
+  {
+    "word": "souverän",
+    "definition": "Sicher, ruhig und selbstbewusst auftreten"
+  },
+  {
+    "word": "reflektiert",
+    "definition": "Über etwas gründlich nachgedacht haben"
+  },
+  {
+    "word": "konsequent",
+    "definition": "An einer Entscheidung oder Haltung festhalten"
+  },
+  {
+    "word": "authentisch",
+    "definition": "Echt und glaubwürdig wirken"
+  },
+  {
+    "word": "gelassen",
+    "definition": "Ruhig bleiben und sich nicht schnell stressen lassen"
+  },
+  {
+    "word": "bedacht",
+    "definition": "Vorsichtig und gut überlegt handeln"
+  },
+  {
+    "word": "impulsiv",
+    "definition": "Spontan handeln, ohne lange nachzudenken"
+  },
+  {
+    "word": "besonnen",
+    "definition": "Ruhig und vernünftig reagieren"
+  },
+  {
+    "word": "vehement",
+    "definition": "Sehr deutlich und energisch auftreten"
+  },
+  {
+    "word": "skeptisch",
+    "definition": "Etwas kritisch oder zweifelnd betrachten"
+  },
+  {
+    "word": "nachvollziehbar",
+    "definition": "So verständlich sein, dass man den Gedanken folgen kann"
+  },
+  {
+    "word": "kontrovers",
+    "definition": "Unterschiedliche und oft gegensätzliche Meinungen hervorrufen"
+  },
+  {
+    "word": "fragwürdig",
+    "definition": "Zweifel daran auslösen, ob etwas richtig oder sinnvoll ist"
+  },
+  {
+    "word": "legitim",
+    "definition": "Berechtigt oder nachvollziehbar sein"
+  },
+  {
+    "word": "adäquat",
+    "definition": "Für eine Situation passend oder angemessen sein"
+  },
+  {
+    "word": "essenziell",
+    "definition": "Besonders wichtig oder unverzichtbar sein"
+  },
+  {
+    "word": "irrelevant",
+    "definition": "Für ein bestimmtes Thema keine Bedeutung haben"
+  },
+  {
+    "word": "signifikant",
+    "definition": "Deutlich oder besonders bedeutsam sein"
+  },
+  {
+    "word": "banal",
+    "definition": "Sehr gewöhnlich oder wenig anspruchsvoll sein"
+  },
+  {
+    "word": "trivial",
+    "definition": "Einfach, offensichtlich oder wenig bedeutsam sein"
+  },
+  {
+    "word": "markant",
+    "definition": "Deutlich auffallen und leicht erkennbar sein"
+  },
+  {
+    "word": "präzise",
+    "definition": "Sehr genau und eindeutig sein"
+  },
+  {
+    "word": "vage",
+    "definition": "Unklar oder nicht genau formuliert sein"
+  },
+  {
+    "word": "explizit",
+    "definition": "Etwas ausdrücklich und eindeutig sagen"
+  },
+  {
+    "word": "implizit",
+    "definition": "Etwas ausdrücken, ohne es direkt zu sagen"
+  },
+  {
+    "word": "konkret",
+    "definition": "Genau und eindeutig statt allgemein sein"
+  },
+  {
+    "word": "pauschal",
+    "definition": "Etwas stark verallgemeinern"
+  },
+  {
+    "word": "relativ",
+    "definition": "Von Umständen oder Vergleichen abhängig sein"
+  },
+  {
+    "word": "objektiv",
+    "definition": "Möglichst unabhängig von persönlichen Gefühlen urteilen"
+  },
+  {
+    "word": "subjektiv",
+    "definition": "Von persönlichen Ansichten oder Gefühlen geprägt sein"
+  },
+  {
+    "word": "intuitiv",
+    "definition": "Etwas aus dem Gefühl heraus verstehen oder entscheiden"
+  },
+  {
+    "word": "rational",
+    "definition": "Auf Vernunft und logischem Denken beruhen"
+  },
+  {
+    "word": "emotional",
+    "definition": "Stark von Gefühlen beeinflusst sein"
+  },
+  {
+    "word": "sensibel",
+    "definition": "Feinfühlig auf Gefühle oder Situationen reagieren"
+  },
+  {
+    "word": "empathisch",
+    "definition": "Sich gut in die Gefühle anderer hineinversetzen können"
+  },
+  {
+    "word": "distanziert",
+    "definition": "Zurückhaltend und emotional eher entfernt wirken"
+  },
+  {
+    "word": "reserviert",
+    "definition": "Zurückhaltend und nicht sofort offen auftreten"
+  },
+  {
+    "word": "aufgeschlossen",
+    "definition": "Offen gegenüber neuen Menschen oder Ideen sein"
+  },
+  {
+    "word": "voreingenommen",
+    "definition": "Schon vorher eine feste Meinung über etwas haben"
+  },
+  {
+    "word": "unbefangen",
+    "definition": "Ohne Vorurteile oder Unsicherheit auftreten"
+  },
+  {
+    "word": "charmant",
+    "definition": "Auf angenehme Weise sympathisch wirken"
+  },
+  {
+    "word": "charismatisch",
+    "definition": "Eine starke und anziehende Ausstrahlung haben"
+  },
+  {
+    "word": "sympathisch",
+    "definition": "Angenehm und menschlich ansprechend wirken"
+  },
+  {
+    "word": "unscheinbar",
+    "definition": "Wenig auffällig wirken"
+  },
+  {
+    "word": "exzentrisch",
+    "definition": "Ungewöhnlich und stark von der Norm abweichend sein"
+  },
+  {
+    "word": "provokant",
+    "definition": "Bewusst starke Reaktionen hervorrufen"
+  },
+  {
+    "word": "zynisch",
+    "definition": "Spöttisch und oft gefühllos über etwas sprechen"
+  },
+  {
+    "word": "ironisch",
+    "definition": "Etwas sagen und dabei oft das Gegenteil meinen"
+  },
+  {
+    "word": "sarkastisch",
+    "definition": "Spöttisch und oft verletzend formulieren"
+  },
+  {
+    "word": "pointiert",
+    "definition": "Etwas besonders treffend und zugespitzt ausdrücken"
+  },
+  {
+    "word": "schlagfertig",
+    "definition": "Schnell und treffend auf Aussagen reagieren können"
+  },
+  {
+    "word": "eloquent",
+    "definition": "Sich sprachlich gewandt und überzeugend ausdrücken"
+  },
+  {
+    "word": "artikuliert",
+    "definition": "Sich klar und verständlich ausdrücken"
+  },
+  {
+    "word": "wortgewandt",
+    "definition": "Sicher und geschickt mit Sprache umgehen"
+  },
+  {
+    "word": "eloquenz",
+    "definition": "Die Fähigkeit, sich sprachlich besonders gut auszudrücken"
+  },
+  {
+    "word": "argumentieren",
+    "definition": "Eine Meinung mit nachvollziehbaren Gründen begründen"
+  },
+  {
+    "word": "relativieren",
+    "definition": "Eine Aussage abschwächen oder in einen größeren Zusammenhang stellen"
+  },
+  {
+    "word": "konkretisieren",
+    "definition": "Etwas genauer und verständlicher machen"
+  },
+  {
+    "word": "implizieren",
+    "definition": "Etwas indirekt ausdrücken oder voraussetzen"
+  },
+  {
+    "word": "suggerieren",
+    "definition": "Einen bestimmten Eindruck entstehen lassen"
+  },
+  {
+    "word": "interpretieren",
+    "definition": "Etwas deuten oder ihm eine Bedeutung geben"
+  },
+  {
+    "word": "hinterfragen",
+    "definition": "Etwas kritisch prüfen und nicht einfach akzeptieren"
+  },
+  {
+    "word": "abwägen",
+    "definition": "Verschiedene Vor- und Nachteile miteinander vergleichen"
+  },
+  {
+    "word": "einordnen",
+    "definition": "Etwas in einen passenden Zusammenhang bringen"
+  },
+  {
+    "word": "differenzieren",
+    "definition": "Feine Unterschiede erkennen und beachten"
+  },
+  {
+    "word": "antizipieren",
+    "definition": "Etwas im Voraus erwarten oder vorhersehen"
+  },
+  {
+    "word": "tendieren",
+    "definition": "Zu einer bestimmten Richtung oder Entscheidung neigen"
+  },
+  {
+    "word": "priorisieren",
+    "definition": "Etwas als wichtiger behandeln als andere Dinge"
+  },
+  {
+    "word": "kompensieren",
+    "definition": "Einen Nachteil durch etwas anderes ausgleichen"
+  },
+  {
+    "word": "tolerieren",
+    "definition": "Etwas akzeptieren, auch wenn man es nicht gut findet"
+  },
+  {
+    "word": "ignorieren",
+    "definition": "Etwas bewusst nicht beachten"
+  },
+  {
+    "word": "akzeptieren",
+    "definition": "Etwas annehmen oder gelten lassen"
+  },
+  {
+    "word": "respektieren",
+    "definition": "Die Meinung, Grenzen oder Rechte anderer achten"
+  },
+  {
+    "word": "provozieren",
+    "definition": "Bewusst eine starke Reaktion hervorrufen"
+  },
+  {
+    "word": "eskalieren",
+    "definition": "Eine Situation zunehmend heftiger werden lassen"
+  },
+  {
+    "word": "deeskalieren",
+    "definition": "Eine angespannte Situation beruhigen"
+  },
+  {
+    "word": "harmonieren",
+    "definition": "Gut zusammenpassen oder miteinander funktionieren"
+  },
+  {
+    "word": "kooperieren",
+    "definition": "Mit anderen zusammenarbeiten"
+  },
+  {
+    "word": "konfrontieren",
+    "definition": "Jemanden direkt mit einem Problem oder einer Tatsache ansprechen"
+  },
+  {
+    "word": "distanzieren",
+    "definition": "Sich bewusst von etwas oder jemandem abgrenzen"
+  },
+  {
+    "word": "positionieren",
+    "definition": "Eine klare Haltung zu einem Thema einnehmen"
+  },
+  {
+    "word": "etablieren",
+    "definition": "Etwas dauerhaft einführen oder fest verankern"
+  },
+  {
+    "word": "etabliert",
+    "definition": "Bereits bekannt, anerkannt oder fest verankert sein"
+  },
+  {
+    "word": "konventionell",
+    "definition": "Üblich und eher traditionell sein"
+  },
+  {
+    "word": "unkonventionell",
+    "definition": "Ungewöhnlich und nicht nach üblichen Vorstellungen sein"
+  },
+  {
+    "word": "innovativ",
+    "definition": "Neu und einfallsreich sein"
+  },
+  {
+    "word": "effizient",
+    "definition": "Mit möglichst wenig Aufwand ein gutes Ergebnis erreichen"
+  },
+  {
+    "word": "ineffizient",
+    "definition": "Für ein Ergebnis unnötig viel Aufwand benötigen"
+  },
+  {
+    "word": "strategisch",
+    "definition": "Langfristig geplant und zielgerichtet handeln"
+  },
+  {
+    "word": "spontan",
+    "definition": "Ohne längere Planung handeln oder entscheiden"
+  },
+  {
+    "word": "flexibel",
+    "definition": "Sich leicht an neue Situationen anpassen können"
+  },
+  {
+    "word": "kompromissbereit",
+    "definition": "Bereit sein, eine gemeinsame Zwischenlösung zu finden"
+  },
+  {
+    "word": "stur",
+    "definition": "Trotz guter Gründe nicht von einer Haltung abweichen"
+  },
+  {
+    "word": "penibel",
+    "definition": "Sehr genau und manchmal übermäßig sorgfältig sein"
+  },
+  {
+    "word": "akribisch",
+    "definition": "Äußerst gründlich und sorgfältig arbeiten"
+  },
+  {
+    "word": "sporadisch",
+    "definition": "Nur gelegentlich und unregelmäßig vorkommen"
+  },
+  {
+    "word": "permanent",
+    "definition": "Dauerhaft oder ständig vorhanden sein"
   }
 ]
