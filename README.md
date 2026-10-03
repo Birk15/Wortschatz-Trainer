@@ -34,7 +34,7 @@ Vite nimmt diese Dateien in den Build auf. Die App sendet weder Trainingsantwort
 
 Unter **Hinzufügen → Deine Sammlung sichern** lässt sich die gesamte Sammlung als `wortschatz-sicherung.json` herunterladen und später importieren. Die Sicherung enthält die Listen `words` und `synonyms`. Beim Import werden neue Wörter ergänzt; vorhandene Einträge bleiben unverändert. Es gibt keine automatische Synchronisierung zwischen Geräten. Gelöschte Websitedaten oder vom Betriebssystem freigegebener Webspeicher können lokale Einträge und Offline-Dateien entfernen. Sichere deine eigenen Einträge daher regelmäßig in „Dateien“.
 
-Nach dem ersten Speichern verwendet das Gerät seine eigene vollständige Sammlung. Änderungen an den Ausgangsdateien auf GitHub ersetzen diese nicht. Neue Sammlungen können über die Importfunktion ergänzt werden.
+Nach dem ersten Speichern verwendet das Gerät seine eigene vollständige Sammlung. Normale Änderungen an den Ausgangsdateien auf GitHub ersetzen diese nicht. Neue Sammlungen können über die Importfunktion ergänzt werden. Ausnahme: Die ausdrücklich gewünschte Sammlungsrevision vom 03.10.2026 ersetzt einmalig die gesamte lokale Wörterliste durch 95 neue Einträge; die Synonyme bleiben erhalten. Einzelheiten stehen in `database/README.md`.
 
 ## Lokal entwickeln und prüfen
 

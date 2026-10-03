@@ -45,3 +45,27 @@ test('corrupt stored data is not overwritten', () => {
   assert.throws(() => store.add('words', { word: 'neu', definition: 'Test' }), /nicht gelesen/);
   assert.equal(writes, 0);
 });
+
+test('a word-list revision replaces existing words once and preserves all synonyms', () => {
+  const storage = memory();
+  const oldStore = createCollectionStore(storage, seed);
+  oldStore.add('words', { word: 'alt', definition: 'Alter Eintrag' });
+  oldStore.add('synonyms', { word: 'mutig', synonyms: ['tapfer'] });
+  const previousSynonyms = oldStore.read().synonyms;
+  const updatedSeed = { words: [{ word: 'katalogisieren', definition: 'Geordnet erfassen' }], synonyms: [] };
+  const updated = createCollectionStore(storage, updatedSeed, '2026-10-03');
+  assert.deepEqual(updated.read().words, updatedSeed.words);
+  assert.deepEqual(updated.read().synonyms, previousSynonyms);
+  updated.add('words', { word: 'später', definition: 'Nach dem Wechsel hinzugefügt' });
+  const reopened = createCollectionStore(storage, updatedSeed, '2026-10-03');
+  assert.equal(reopened.read().words.length, 2);
+  assert.deepEqual(reopened.read().synonyms, previousSynonyms);
+});
+
+test('failed word-list replacement leaves the previous collection intact', () => {
+  const raw = JSON.stringify(seed);
+  const storage = { getItem: () => raw, setItem: () => { throw new Error('Quota'); } };
+  const store = createCollectionStore(storage, { words: [], synonyms: [] }, '2026-10-03');
+  assert.throws(() => store.read(), /Speichern/);
+  assert.equal(storage.getItem(), raw);
+});

@@ -35,16 +35,28 @@ export function validateCollection(value) {
   return collection;
 }
 
-export function createCollectionStore(storage, seed) {
+export function createCollectionStore(storage, seed, wordsRevision = null) {
   function read() {
     const raw = storage.getItem(KEY);
     if (raw === null) return validateCollection(seed);
-    try { return validateCollection(JSON.parse(raw)); }
+    let stored;
+    let collection;
+    try {
+      stored = JSON.parse(raw);
+      collection = validateCollection(stored);
+    }
     catch (cause) { throw new Error('Die gespeicherte Sammlung konnte nicht gelesen werden. Deine Daten wurden nicht überschrieben.', { cause }); }
+    // Apply an explicitly requested replacement once, including on installed phones.
+    // Synonyms stay intact; words added after this revision survive future reads.
+    if (wordsRevision !== null && stored.wordsRevision !== wordsRevision) {
+      collection.words = validateCollection(seed).words;
+      write(collection);
+    }
+    return collection;
   }
 
   function write(collection) {
-    try { storage.setItem(KEY, JSON.stringify(collection)); }
+    try { storage.setItem(KEY, JSON.stringify({ ...collection, ...(wordsRevision === null ? {} : { wordsRevision }) })); }
     catch (cause) { throw new Error('Speichern auf diesem Gerät nicht möglich. Bitte prüfe den freien Speicher und die Safari-Einstellungen.', { cause }); }
   }
 

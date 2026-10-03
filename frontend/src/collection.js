@@ -4,5 +4,5 @@ import { createCollectionStore } from './storage';
 
 // Access storage only when needed, so unavailable storage produces a visible error.
 export function getCollectionStore() {
-  return createCollectionStore(window.localStorage, { words, synonyms });
+  return createCollectionStore(window.localStorage, { words, synonyms }, '2026-10-03');
 }

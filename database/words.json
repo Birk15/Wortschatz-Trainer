@@ -1,46 +1,382 @@
 [
   {
-    "word": "tangieren",
-    "definition": "Jemanden emotional oder sachlich berühren"
+    "word": "katalogisieren",
+    "definition": "Gegenstände oder Informationen geordnet in einem Verzeichnis erfassen."
   },
   {
-    "word": "ambivalent",
-    "definition": "Gegensätzliche Gefühle oder Meinungen gleichzeitig haben"
+    "word": "bewährt",
+    "definition": "Durch wiederholte Anwendung als zuverlässig oder geeignet erwiesen."
   },
   {
-    "word": "eloquent",
-    "definition": "Sich sprachlich gewandt und überzeugend ausdrücken"
+    "word": "Kongress",
+    "definition": "Größere Tagung, bei der Fachleute oder Vertreter gemeinsame Themen beraten."
   },
   {
-    "word": "pragmatisch",
-    "definition": "Sachlich und lösungsorientiert handeln"
+    "word": "Sonderzulagen",
+    "definition": "Zusätzliche Zahlungen zum regulären Lohn für besondere Bedingungen oder Leistungen."
   },
   {
-    "word": "resilient",
-    "definition": "Psychisch widerstandsfähig gegenüber Belastungen sein"
+    "word": "profitorientiert",
+    "definition": "Vorrangig auf die Erzielung von Gewinn ausgerichtet."
   },
   {
-    "word": "konzis",
-    "definition": "Kurz und prägnant formuliert"
+    "word": "Tenor",
+    "definition": "Grundton oder wesentliche Aussage einer Äußerung oder eines Textes."
   },
   {
-    "word": "eklatant",
-    "definition": "Besonders auffällig oder schwerwiegend"
+    "word": "rentabel",
+    "definition": "Wirtschaftlich lohnend, weil ein angemessener Gewinn erzielt wird."
   },
   {
-    "word": "substanziell",
-    "definition": "Von erheblicher Bedeutung oder Umfang"
+    "word": "Rentabilität",
+    "definition": "Verhältnis des erzielten Gewinns zum eingesetzten Kapital."
   },
   {
-    "word": "paradox",
-    "definition": "Scheinbar widersprüchlich, aber dennoch möglich"
+    "word": "Hauptaugenmerk",
+    "definition": "Der Punkt, auf den sich die größte Aufmerksamkeit richtet."
   },
   {
-    "word": "authentisch",
-    "definition": "Echt, glaubwürdig und unverfälscht"
+    "word": "Fluktuation",
+    "definition": "Schwankung eines Bestands; besonders der Wechsel von Beschäftigten in einem Betrieb."
+  },
+  {
+    "word": "inflationär",
+    "definition": "Übermäßig häufig verwendet und dadurch an Bedeutung oder Wirkung verlierend."
+  },
+  {
+    "word": "kollektiv",
+    "definition": "Eine Gemeinschaft als Ganzes betreffend oder von ihr gemeinsam ausgeführt."
+  },
+  {
+    "word": "individuell",
+    "definition": "Eine einzelne Person betreffend oder ihren Besonderheiten entsprechend."
+  },
+  {
+    "word": "honorieren",
+    "definition": "Eine Leistung bezahlen oder durch Anerkennung würdigen."
+  },
+  {
+    "word": "segregieren",
+    "definition": "Menschen oder Dinge voneinander absondern oder räumlich trennen."
+  },
+  {
+    "word": "adaptieren",
+    "definition": "Etwas an neue Bedingungen anpassen oder für einen anderen Zweck bearbeiten."
+  },
+  {
+    "word": "Prävention",
+    "definition": "Vorbeugende Maßnahmen, die unerwünschte Ereignisse oder Schäden verhindern sollen."
+  },
+  {
+    "word": "Sadist",
+    "definition": "Person, die Lust oder Befriedigung daraus zieht, anderen Schmerzen oder Demütigungen zuzufügen."
+  },
+  {
+    "word": "Masochist",
+    "definition": "Person, die Lust oder Befriedigung durch selbst erlebte Schmerzen oder Demütigungen empfindet."
+  },
+  {
+    "word": "Sadomasochist",
+    "definition": "Person, die sowohl am Zufügen als auch am Erleben von Schmerzen oder Demütigungen Lust empfindet."
+  },
+  {
+    "word": "Autokannibalismus",
+    "definition": "Verzehr von Teilen des eigenen Körpers."
+  },
+  {
+    "word": "Diskrepanz",
+    "definition": "Deutliche Abweichung oder Unstimmigkeit zwischen zwei Sachverhalten."
+  },
+  {
+    "word": "differenziert",
+    "definition": "Verschiedene Aspekte und Unterschiede sorgfältig berücksichtigend."
   },
   {
     "word": "nuanciert",
-    "definition": "Feine Unterschiede berücksichtigend und differenziert dargestellt"
+    "definition": "Feine Abstufungen oder kleine Bedeutungsunterschiede berücksichtigend."
+  },
+  {
+    "word": "Prokrastination",
+    "definition": "Wiederholtes Aufschieben wichtiger Aufgaben trotz erwartbarer Nachteile."
+  },
+  {
+    "word": "kohärent",
+    "definition": "In sich zusammenhängend, schlüssig und widerspruchsfrei."
+  },
+  {
+    "word": "Segregation",
+    "definition": "Trennung oder Absonderung von Gruppen, etwa nach sozialen Merkmalen."
+  },
+  {
+    "word": "primitiv",
+    "definition": "Sehr einfach aufgebaut oder wenig entwickelt; oft abwertend gebraucht."
+  },
+  {
+    "word": "Placebo",
+    "definition": "Scheinmedikament ohne den für die Behandlung spezifischen Wirkstoff."
+  },
+  {
+    "word": "entmündigen",
+    "definition": "Jemandem die eigenständige Entscheidung über seine Angelegenheiten nehmen."
+  },
+  {
+    "word": "negieren",
+    "definition": "Etwas verneinen, bestreiten oder als nicht bestehend behandeln."
+  },
+  {
+    "word": "falsifizieren",
+    "definition": "Die Unrichtigkeit einer Behauptung oder Hypothese nachweisen."
+  },
+  {
+    "word": "verifizieren",
+    "definition": "Die Richtigkeit einer Aussage oder eines Ergebnisses überprüfen und bestätigen."
+  },
+  {
+    "word": "animieren",
+    "definition": "Jemanden zu etwas anregen oder ermuntern; auch Bilder in Bewegung versetzen."
+  },
+  {
+    "word": "appellieren",
+    "definition": "Sich mit einer eindringlichen Bitte oder Aufforderung an jemanden wenden."
+  },
+  {
+    "word": "kommunizieren",
+    "definition": "Informationen, Gedanken oder Gefühle mitteilen und austauschen."
+  },
+  {
+    "word": "simplifizieren",
+    "definition": "Etwas vereinfachen, häufig unter Vernachlässigung wichtiger Einzelheiten."
+  },
+  {
+    "word": "Akquise",
+    "definition": "Gezielte Gewinnung neuer Kunden oder Aufträge."
+  },
+  {
+    "word": "Altruismus",
+    "definition": "Uneigennütziges Handeln zum Wohl anderer."
+  },
+  {
+    "word": "divergieren",
+    "definition": "Auseinandergehen oder sich in unterschiedliche Richtungen entwickeln."
+  },
+  {
+    "word": "inspirieren",
+    "definition": "Neue Ideen, Gedanken oder schöpferische Impulse anregen."
+  },
+  {
+    "word": "homogen",
+    "definition": "In der Zusammensetzung weitgehend gleichartig oder einheitlich."
+  },
+  {
+    "word": "heterogen",
+    "definition": "Aus unterschiedlichen Bestandteilen oder Gruppen zusammengesetzt."
+  },
+  {
+    "word": "pluralistische Gesellschaft",
+    "definition": "Gesellschaft, in der verschiedene Meinungen, Interessen und Lebensweisen nebeneinander bestehen."
+  },
+  {
+    "word": "Sigmund Freud",
+    "definition": "Österreichischer Arzt und Begründer der Psychoanalyse, der die Bedeutung unbewusster Vorgänge betonte."
+  },
+  {
+    "word": "Karl Marx",
+    "definition": "Deutscher Philosoph und Kapitalismuskritiker, der mit Friedrich Engels den modernen Kommunismus maßgeblich prägte."
+  },
+  {
+    "word": "Rosa Luxemburg",
+    "definition": "Sozialistische Politikerin und Mitbegründerin der KPD, die während der Revolution 1918/19 wirkte."
+  },
+  {
+    "word": "Gandhi",
+    "definition": "Indischer Unabhängigkeitsführer, der gewaltfreien Widerstand gegen die britische Kolonialherrschaft vertrat."
+  },
+  {
+    "word": "Darwin",
+    "definition": "Britischer Naturforscher, der die Evolution von Arten durch natürliche Selektion erklärte."
+  },
+  {
+    "word": "Thomas Hobbes",
+    "definition": "Englischer Philosoph, der einen starken Staat durch einen Gesellschaftsvertrag zur Sicherung des Friedens begründete."
+  },
+  {
+    "word": "Prozedur",
+    "definition": "Festgelegter Ablauf mehrerer Schritte zur Durchführung einer Aufgabe."
+  },
+  {
+    "word": "inventarisieren",
+    "definition": "Vorhandene Gegenstände oder Vermögenswerte systematisch erfassen und auflisten."
+  },
+  {
+    "word": "Rendezvous",
+    "definition": "Verabredetes Treffen, besonders eine romantische Begegnung."
+  },
+  {
+    "word": "amtierend",
+    "definition": "Ein Amt gegenwärtig innehabend und ausübend."
+  },
+  {
+    "word": "zivilisatorisch",
+    "definition": "Die Entwicklung und Gestaltung gesellschaftlicher Lebensformen betreffend."
+  },
+  {
+    "word": "subjektiv",
+    "definition": "Von persönlichen Wahrnehmungen, Gefühlen oder Bewertungen abhängig."
+  },
+  {
+    "word": "objektiv",
+    "definition": "An überprüfbaren Tatsachen orientiert und unabhängig von persönlichen Wertungen."
+  },
+  {
+    "word": "Inzentivierung",
+    "definition": "Schaffung von Anreizen, um ein bestimmtes Verhalten zu fördern."
+  },
+  {
+    "word": "Dämonisierung",
+    "definition": "Darstellung einer Person oder Gruppe als grundsätzlich böse oder bedrohlich."
+  },
+  {
+    "word": "tangieren",
+    "definition": "Etwas berühren oder betreffen, häufig nur am Rande."
+  },
+  {
+    "word": "konträr",
+    "definition": "Entgegengesetzt oder in deutlichem Gegensatz stehend."
+  },
+  {
+    "word": "trivial",
+    "definition": "Alltäglich, einfach oder ohne besonderen Erkenntniswert."
+  },
+  {
+    "word": "fundiert",
+    "definition": "Auf verlässlichen Kenntnissen, Belegen oder sorgfältigen Überlegungen beruhend."
+  },
+  {
+    "word": "Dogma",
+    "definition": "Lehrsatz, der innerhalb einer Gemeinschaft als verbindlich und nicht anzuzweifeln gilt."
+  },
+  {
+    "word": "Credo",
+    "definition": "Persönliches Glaubensbekenntnis oder grundlegende Überzeugung."
+  },
+  {
+    "word": "deklarieren",
+    "definition": "Etwas ausdrücklich erklären, kennzeichnen oder offiziell angeben."
+  },
+  {
+    "word": "Prädikat",
+    "definition": "Satzglied, das durch ein Verb oder mehrere Verbteile ausdrückt, was geschieht oder der Fall ist."
+  },
+  {
+    "word": "Vehikel",
+    "definition": "Fahrzeug; übertragen ein Mittel, um etwas zu vermitteln oder ein Ziel zu erreichen."
+  },
+  {
+    "word": "destruktiv",
+    "definition": "Zerstörerisch wirkend oder auf die Zerstörung von etwas gerichtet."
+  },
+  {
+    "word": "intrinsisch",
+    "definition": "Aus innerem Interesse oder eigener Überzeugung heraus motiviert."
+  },
+  {
+    "word": "extrinsisch",
+    "definition": "Durch äußere Anreize wie Belohnung, Anerkennung oder Druck motiviert."
+  },
+  {
+    "word": "erkoren",
+    "definition": "Für eine besondere Aufgabe oder Stellung ausgewählt oder bestimmt."
+  },
+  {
+    "word": "dialektisch",
+    "definition": "Durch die Auseinandersetzung mit Gegensätzen und Widersprüchen zu Erkenntnissen gelangend."
+  },
+  {
+    "word": "futuristisch",
+    "definition": "An Vorstellungen einer technisch oder gesellschaftlich neuartigen Zukunft orientiert."
+  },
+  {
+    "word": "restriktiv",
+    "definition": "Einschränkend oder stark begrenzend."
+  },
+  {
+    "word": "Restriktion",
+    "definition": "Einschränkung oder Begrenzung einer Möglichkeit oder Handlungsfreiheit."
+  },
+  {
+    "word": "krepieren",
+    "definition": "Derber Ausdruck für sterben oder elend zugrunde gehen."
+  },
+  {
+    "word": "lädiert",
+    "definition": "Beschädigt, angeschlagen oder leicht verletzt."
+  },
+  {
+    "word": "deformieren",
+    "definition": "Die ursprüngliche Form von etwas verändern oder verunstalten."
+  },
+  {
+    "word": "Boulevardpresse",
+    "definition": "Auf ein breites Publikum ausgerichtete Presse mit zugespitzter, oft sensationsbetonter Darstellung."
+  },
+  {
+    "word": "Stigma",
+    "definition": "Merkmal, wegen dessen eine Person oder Gruppe gesellschaftlich abgewertet wird."
+  },
+  {
+    "word": "Stigmatisierung",
+    "definition": "Zuschreibung eines abwertenden Merkmals, die Menschen ausgrenzt oder benachteiligt."
+  },
+  {
+    "word": "melancholisch",
+    "definition": "Von stiller Traurigkeit, Schwermut oder wehmütiger Nachdenklichkeit geprägt."
+  },
+  {
+    "word": "marginal",
+    "definition": "Am Rand liegend oder von geringer Bedeutung beziehungsweise geringem Ausmaß."
+  },
+  {
+    "word": "Gehirn",
+    "definition": "Organ im Schädel, das unter anderem Wahrnehmung, Denken, Gefühle und Körperfunktionen steuert."
+  },
+  {
+    "word": "akribisch",
+    "definition": "Äußerst sorgfältig und bis ins kleinste Detail genau."
+  },
+  {
+    "word": "kleinkariert denken",
+    "definition": "Sich übermäßig an unwichtigen Einzelheiten festhalten und den größeren Zusammenhang übersehen."
+  },
+  {
+    "word": "engstirnig",
+    "definition": "Für andere Sichtweisen wenig offen und auf die eigene begrenzte Sichtweise fixiert."
+  },
+  {
+    "word": "taxiert",
+    "definition": "Im Wert, Umfang oder in seiner Bedeutung eingeschätzt."
+  },
+  {
+    "word": "beziffern",
+    "definition": "Eine Menge, einen Wert oder einen Schaden zahlenmäßig angeben."
+  },
+  {
+    "word": "mustergültig",
+    "definition": "So vorbildlich, dass es anderen als Muster dienen kann."
+  },
+  {
+    "word": "Schinderei",
+    "definition": "Sehr anstrengende, mühsame und belastende Arbeit."
+  },
+  {
+    "word": "lukrativ",
+    "definition": "Finanziell besonders einträglich oder gewinnbringend."
+  },
+  {
+    "word": "subtil",
+    "definition": "Fein, unauffällig oder nur bei genauer Betrachtung erkennbar."
+  },
+  {
+    "word": "alchemistisch",
+    "definition": "Die historische Lehre von der Umwandlung und Veredelung von Stoffen betreffend."
   }
 ]
